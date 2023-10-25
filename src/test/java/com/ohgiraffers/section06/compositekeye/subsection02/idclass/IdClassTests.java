@@ -1,7 +1,6 @@
 package com.ohgiraffers.section06.compositekeye.subsection02.idclass;
 
-import com.ohgiraffers.section06.compositekeye.subsection01.embedded.Member;
-import com.ohgiraffers.section06.compositekeye.subsection01.embedded.MemberPK;
+
 import org.junit.jupiter.api.*;
 
 import javax.persistence.EntityManager;
